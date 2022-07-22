@@ -1,8 +1,0 @@
-first install arch os with archwiki. Step by step
-Installing alacritty: sudo pacman -S alacrityy
-Installing 1) zsh
-	   2) oh-my-zsh
-	   3) powerlevel10k
-	   4) Download .config folder from github
-	   5) Configure alacritty, and zsh. As you wish
-	   6) Building neovim from the scratch
